@@ -1,0 +1,6 @@
+/* pages/home/home.wxss */
+.bk{
+  background-color: rgba(60, 20, 60, 0.5);
+  width: 300rpx;
+  border-bottom: 5rpx solid #ccc
+}

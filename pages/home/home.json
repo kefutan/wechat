@@ -1,0 +1,11 @@
+{
+
+  "navigationBarBackgroundColor": "#a58",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "home",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": false,
+
+  "usingComponents": {}
+}

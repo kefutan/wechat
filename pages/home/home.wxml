@@ -1,0 +1,8 @@
+<!--pages/home/home.wxml-->
+<view>hello,{{names}}</view>
+<block wx:for="{{movies}}" wx:key="index" >
+<view class="bk">{{item}}</view>
+</block>
+<view>当前计数器 {{counter}}</view>
+<button type = "primary" bind:tap = "increment"> + </button>
+<button type = "warn"  bind:tap = "decrement"> - </button>
